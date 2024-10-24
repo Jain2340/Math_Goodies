@@ -1,5 +1,4 @@
-========================
-BUILD OUTPUT DESCRIPTION
+#math_goodies
 ========================
 
 When you build an Java application project that has a main class, the IDE
@@ -30,7 +29,4 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
-
-
-https://jain2340.github.io/Math_Goodies/
 
